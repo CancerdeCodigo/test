@@ -13,4 +13,5 @@ int main(){
     printf("%d",res);
     res=op-a;
     return 0;
+    pritnf("QUIQUE GOD\n");
 }
