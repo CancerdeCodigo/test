@@ -11,5 +11,6 @@ int main(){
     printf("%d",a);
     res=op+a;
     printf("%d",res);
+    res=op-a;
     return 0;
 }
